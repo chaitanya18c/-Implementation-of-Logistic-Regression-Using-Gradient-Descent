@@ -117,8 +117,26 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
-
+#### Array Value of x
+![237655268-033e44c7-01d8-4694-af58-e47e586bc326](https://github.com/chaitanya18c/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119392724/b9409e34-9b5e-4c0e-a3b5-61b880a0dcf8)
+#### Array Value of y
+![237655319-3d9afb2e-3520-4ab7-a959-1685a95c48cb](https://github.com/chaitanya18c/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119392724/beafbc63-3dbf-47d6-a66a-027e6cfdd363)
+#### Exam 1 - score graph
+![237659957-6c725e84-829f-459b-9dab-ec3c9c4316fb](https://github.com/chaitanya18c/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119392724/61b2a857-bd4d-43f3-81b1-5b1b91b2515c)
+#### Sigmoid function graph
+![237655512-b114a544-ffeb-42c5-a36d-e6bdb52a65ea](https://github.com/chaitanya18c/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119392724/485d0bdc-c5a9-4bfa-8bf7-32fa6da05a89)
+#### X_train_grad value
+![237655762-6d006193-6d73-44d9-8290-4d82eb608d7e](https://github.com/chaitanya18c/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119392724/f8cb3597-e5ae-4ae5-bda5-ec4298dda2ec)
+#### Y_train_grad value
+![237655834-71194e2e-7353-4bf9-93d7-027575624256](https://github.com/chaitanya18c/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119392724/563ae30c-407d-4d0d-a657-d54c0c2f31ad)
+#### Print res.x
+![237656681-16c592fc-3657-4346-bdb5-c27acad5a7f8](https://github.com/chaitanya18c/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119392724/4bd09926-f74b-4c40-894f-9d7521b90c97)
+#### Decision boundary - graph for exam score
+![237660022-beecf6cd-c08f-47df-bb02-00eadb43d41f](https://github.com/chaitanya18c/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119392724/ce8d7b22-6c3b-4778-b348-4a104285dc7f)
+#### Proability value
+![237656790-b92b63f4-f532-462a-8593-d86f4cc83efd](https://github.com/chaitanya18c/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119392724/790ff26f-2760-4aa6-bda6-7de82affb252)
+#### Prediction value of mean
+![237656853-f8ee18ed-c208-47d9-ac94-7704d6852df1](https://github.com/chaitanya18c/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119392724/232a18df-6cd0-403d-9690-36c811d7b2e5)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
